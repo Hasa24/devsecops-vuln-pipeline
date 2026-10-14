@@ -1,0 +1,2 @@
+{"Results":[{"Target":"infra/main.tf","Class":"config","Misconfigurations":[
+ {"ID":"AVD-AWS-0107","Title":"Security group allows ingress from public internet","Severity":"CRITICAL","Resolution":"Restrict the CIDR range"}]}]}

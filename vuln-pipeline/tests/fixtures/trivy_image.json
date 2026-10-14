@@ -1,0 +1,4 @@
+{"Results":[{"Target":"python:3.9-slim (debian)","Vulnerabilities":[
+ {"VulnerabilityID":"CVE-2024-0001","PkgName":"libfoo","InstalledVersion":"1.0","FixedVersion":"1.1","Severity":"CRITICAL","Title":"Remote code execution in libfoo"},
+ {"VulnerabilityID":"CVE-2024-0002","PkgName":"libbar","InstalledVersion":"2.0","FixedVersion":"","Severity":"HIGH","Title":"No fix available yet"},
+ {"VulnerabilityID":"CVE-2024-0003","PkgName":"libbaz","InstalledVersion":"3.0","FixedVersion":"3.1","Severity":"LOW","Title":"Minor issue"}]}]}
